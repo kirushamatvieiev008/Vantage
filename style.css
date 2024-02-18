@@ -165,7 +165,7 @@ ul {
 .your_vision {
     color: #141414;
     margin-top: 0;
-
+    text-transform: capitalize;
     font-family: "Teko", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
@@ -291,6 +291,7 @@ ul {
     font-style: normal;
     padding-left: 68px;
     padding-bottom: 28px;
+    text-transform: capitalize;
 }
 
 .paragraph_for_our_job {
@@ -352,6 +353,7 @@ ul {
 }
 
 .info_for_month {
+    text-transform: capitalize;
     padding-top: 11px;
     font-family: "Teko", sans-serif;
     font-optical-sizing: auto;
@@ -390,6 +392,7 @@ ul {
 }
 
 .info_for_month_second {
+    text-transform: capitalize;
     padding-top: 11px;
     font-family: "Teko", sans-serif;
     font-optical-sizing: auto;
@@ -621,6 +624,48 @@ ul {
     height: 100%;
     margin-left: 306px;
 }
+
+.point {
+    width: 11px;
+    height: 11px;
+    background-color: #222;
+    margin: 0 auto;
+    margin-top: 62.25px;
+}
+
+.div_for_point {
+    padding-bottom: 64.14px;
+
+}
+
+.services_span {
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 2.76px;
+    color: #99823D;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    text-align: center;
+}
+
+.architecture_is_not_simple {
+    font-size: 53px;
+    color: #141414;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 5px;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
 
 /* footer */
 /* form {
