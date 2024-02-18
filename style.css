@@ -665,7 +665,130 @@ ul {
     font-style: normal;
 }
 
+.line_and_pen_photo {
+    width: 68px;
+    height: 68px;
+}
 
+.month_and_year {
+    color: #99823D;
+    letter-spacing: 2.76px;
+    font-size: 11px;
+    line-height: 16.6px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    padding-left: 17px;
+}
+
+.ul_to_make_all_right_position {
+    display: flex;
+    width: 214px;
+    padding-left: 34px;
+    margin-top: 34px;
+    margin-bottom: 17.83px;
+}
+
+.description_width_svg {
+    color: #141414;
+    font-family: "Teko", sans-serif;
+    font-size: 26px;
+    line-height: 26.1px;
+    padding-top: 11px;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    width: 157px;
+    padding-left: 17px;
+}
+
+.photos_with_svg_and_description {
+    padding-left: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 89px;
+    padding-bottom: 91px;
+    margin-bottom: 0;
+
+}
+
+.photos_with_svg_and_description li {
+    width: 391.33px;
+}
+
+.text_for_deskription_with_svg {
+    padding-left: 34px;
+    padding-bottom: 31.17px;
+}
+
+.see_all {
+    font-size: 12px;
+    letter-spacing: 2.97px;
+    line-height: 17.9px;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    width: 392px;
+    height: 68px;
+    background-color: #99823D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    color: #fff;
+    margin: 0 auto;
+    
+}
+
+.for_button_see_all {
+    padding-bottom: 91px;
+}
+
+.svg_logos_before_footer {
+    width: 154px;
+    height: 38px;
+}
+
+.ul_of_logos {
+    padding-top: 67.95px;
+    padding-left: 68px;
+    padding-right: 68px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0;
+    padding-bottom: 134px;
+}
+
+.ul_of_logos li {
+    position: relative;
+}
+
+.before_last_section {
+    background-color: #EBEBEB;
+}
+
+.the_lust_tiuch {
+    position: absolute;
+    right: -56.25px;
+    top: 9px;
+    line-height: 0px;
+    color: #99823D;
+    font-size: 53px;
+    text-transform: capitalize;
+    text-align: center;
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
 
 /* footer */
 /* form {
