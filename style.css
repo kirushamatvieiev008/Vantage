@@ -1,7 +1,7 @@
 .container {
     width: 1304px;
     margin: 0 auto;
-    outline: solid 2px red;
+    /* outline: solid 2px red; */
     margin-top: 0;
 }
 
